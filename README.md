@@ -1,7 +1,7 @@
 Hey there 👋,
 
  <p>
- ■ Hey I’m Omer, Computer Science Graduate at The Academic College of Tel-Aviv, Yaffo.
+ ■ I’m Omer, Computer Science Graduate at The Academic College of Tel-Aviv, Yaffo.
 </p>
 
  <p>
@@ -10,4 +10,11 @@ Hey there 👋,
 
  <p>
  ■ Work well under high pressure environment, excellent interpersonal and communication skills.
+</p>
+
+<p>
+Connect with me:
+
+📫https://www.linkedin.com/in/omer-morag-20ab39166/
+
 </p>
