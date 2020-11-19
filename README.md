@@ -13,9 +13,7 @@ Hey there 👋,
  ■ Work well under high pressure environment, excellent interpersonal and communication skills.
 </p>
 
- <p>
- ■  <br> my Skills: <br /> `Java` `JavaScript` `Python` `C` `C++` `C#` `CSS` `HTML` `Nodejs` `Git` 
-</p>
+■ <br>Skills:<br /> `Java` `JavaScript` `Python` `C` `C++` `C#` `CSS` `HTML` `Nodejs` `Git` 
 
 <p>
 Connect with me:
