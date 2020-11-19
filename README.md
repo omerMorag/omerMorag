@@ -1,4 +1,5 @@
 Hey there 👋,
+![](https://komarev.com/ghpvc/?username=omerMorag)
 
  <p>
  ■ I’m Omer, Computer Science Graduate at The Academic College of Tel-Aviv, Yaffo.
