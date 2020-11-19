@@ -1,5 +1,5 @@
 Hey there 👋,
-![](https://komarev.com/ghpvc/?username=omerMorag)
+
 
  <p>
  ■ I’m Omer, Computer Science Graduate at The Academic College of Tel-Aviv, Yaffo.
@@ -8,6 +8,8 @@ Hey there 👋,
  <p>
  ■ Currently looking for a challenging position in the software development field.
 </p>
+
+<br>Skills:<br /> `Java` `JavaScript` `Python` `C` `C++` `C#` `CSS` `HTML` `Nodejs` `Git` 
 
  <p>
  ■ Work well under high pressure environment, excellent interpersonal and communication skills.
