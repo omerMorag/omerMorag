@@ -1,5 +1,6 @@
-Hey there 👋,
+<img src="http://gph.is/2uzzAeR" width="300" height="170" align="center"> 
 
+Hey there 👋,
 
  <p>
  ■ I’m Omer, Computer Science Graduate at The Academic College of Tel-Aviv, Yaffo.
