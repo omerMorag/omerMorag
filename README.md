@@ -13,9 +13,7 @@ Hey there 👋,
  ■ Work well under high pressure environment, excellent interpersonal and communication skills.
 </p>
 
-<p>
-Connect with me:
+Connect with me: omermorag2@gmail.com or on [LinkedIn](https://www.linkedin.com/in/omermorag/)
 
-📫www.linkedin.com/in/omermorag
 
-</p>
+
