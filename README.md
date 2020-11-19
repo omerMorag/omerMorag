@@ -16,6 +16,6 @@ Hey there 👋,
 <p>
 Connect with me:
 
-📫https://www.linkedin.com/in/omer-morag-20ab39166/
+📫www.linkedin.com/in/omermorag
 
 </p>
